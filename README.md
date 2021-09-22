@@ -40,9 +40,9 @@ The file also contains the following attribute types:
 
 This cookbook includes resources for managing:
 
-- [php_pear](https://github.com/sous-chefs/php/tree/master/documentation/php_pear.md)
-- [php_pear_channel](https://github.com/sous-chefs/php/tree/master/documentation/php_pear_channel.md)
-- [php_fpm_pool](https://github.com/sous-chefs/php/tree/master/documentation/php_fpm_pool.md)
+- [php_pear](https://github.com/GihtubBS/php/tree/master/documentation/php_pear.md)
+- [php_pear_channel](https://github.com/GihtubBS/php/tree/master/documentation/php_pear_channel.md)
+- [php_fpm_pool](https://github.com/GihtubBS/php/tree/master/documentation/php_fpm_pool.md)
 
 ## Recipes
 
